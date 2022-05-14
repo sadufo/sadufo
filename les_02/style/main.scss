@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.aboutme{
+    padding: 102px 88px;
+    p{
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        color: #000000;
+        margin-bottom: 19px;
+    }
+    h1{
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;
+        color: #000000;
+        margin-bottom: 24px;
+    }
+    .text{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+    }
+    .projects{
+        h2{
+            font-weight: 700;
+            font-size: 22px;
+            line-height: 27px;
+            color: #000000;
+        }
+        ol{
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 24px;
+            color: #000000;
+        }
+    }
+}
+
